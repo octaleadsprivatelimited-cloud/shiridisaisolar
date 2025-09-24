@@ -328,6 +328,53 @@ const Contact: React.FC = () => {
                   </div>
                 </div>
 
+                {/* Google Maps Section */}
+                <div className="bg-white p-6 rounded-lg shadow-lg">
+                  <h4 className="font-semibold text-gray-900 mb-4 flex items-center">
+                    <MapPin className="h-5 w-5 text-yellow-500 mr-2" />
+                    Find Us on Google Maps
+                  </h4>
+                  <div className="mb-4">
+                    <p className="text-gray-600 text-sm mb-2">
+                      10-401/B.MBR Complex. DI Road Near Premala Theatre
+                    </p>
+                    <p className="text-gray-600 text-sm">
+                      Chittoor, Andhra Pradesh - 517001
+                    </p>
+                  </div>
+                  <div className="relative w-full h-64 rounded-lg overflow-hidden">
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.123456789!2d79.0994768!3d13.2202461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDEzJzEyLjAiTiA3OcKwMDUnNTguMSJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+                      width="100%"
+                      height="100%"
+                      style={{ border: 0 }}
+                      allowFullScreen
+                      loading="lazy"
+                      referrerPolicy="no-referrer-when-downgrade"
+                      title="Vinayaka Solar Location"
+                    ></iframe>
+                  </div>
+                  <div className="mt-4 flex flex-col sm:flex-row gap-2">
+                    <a
+                      href="https://maps.google.com/maps?q=13.2202461,79.0994768&z=17&hl=en"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center px-4 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 transition-colors text-sm font-medium"
+                    >
+                      <MapPin className="h-4 w-4 mr-2" />
+                      Open in Google Maps
+                    </a>
+                    <a
+                      href="https://maps.google.com/maps/dir/?api=1&destination=13.2202461,79.0994768"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors text-sm font-medium"
+                    >
+                      Get Directions
+                    </a>
+                  </div>
+                </div>
+
                 <div className="bg-yellow-50 p-6 rounded-lg">
                   <h4 className="font-semibold text-gray-900 mb-3">Why Choose Us?</h4>
                   <ul className="space-y-2 text-sm text-gray-600">
