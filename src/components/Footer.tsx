@@ -84,8 +84,15 @@ const Footer: React.FC = () => {
                 <div className="flex items-start space-x-3">
                   <MapPin className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-gray-300">10-401/B.MBR Complex. DI Road Near Premala Theatre</p>
-                    <p className="text-gray-300">Chittoor, Andhra Pradesh - 517001</p>
+                    <a 
+                      href="https://maps.google.com/maps?q=13.2202461,79.0994768&z=17&hl=en"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-gray-300 hover:text-yellow-500 transition-colors cursor-pointer block"
+                    >
+                      <p>10-401/B.MBR Complex. DI Road Near Premala Theatre</p>
+                      <p>Chittoor, Andhra Pradesh - 517001</p>
+                    </a>
                   </div>
                 </div>
               </div>
