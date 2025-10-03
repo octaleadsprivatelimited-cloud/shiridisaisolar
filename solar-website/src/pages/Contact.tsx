@@ -55,13 +55,13 @@ const Contact: React.FC = () => {
     {
       icon: <Mail className="h-8 w-8 text-yellow-500" />,
       title: "Email",
-      details: ["info@vinayakasolar.com"],
-      action: "mailto:info@vinayakasolar.com"
+      details: ["vinayakasolarpowersolutions@gmail.com"],
+      action: "mailto:vinayakasolarpowersolutions@gmail.com"
     },
     {
       icon: <MapPin className="h-8 w-8 text-yellow-500" />,
       title: "Service Areas",
-      details: ["Kakinada", "Visakhapatnam", "Rajahmundry"],
+      details: ["Chittoor", "Madhanapalli", "Tirupathi", "Sathyavedu", "Puttur", "Nagari", "Palamaneru", "Pileru"],
       action: "#"
     },
     {
@@ -73,8 +73,9 @@ const Contact: React.FC = () => {
   ];
 
   const cities = [
-    'Visakhapatnam', 'Rajahmundry', 'Amalapuram', 
-    'Kakinada', 'Tanuku', 'Eluru', 'Bhimavaram'
+    'Chittoor', 'Madhanapalli', 'Tirupathi',
+    'Sathyavedu', 'Puttur', 'Nagari',
+    'Palamaneru', 'Pileru'
   ];
 
   const systemSizes = [

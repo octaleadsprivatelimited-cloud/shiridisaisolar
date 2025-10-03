@@ -219,7 +219,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ location, articleTitle, class
           </div>
           <div className="flex items-center">
             <Mail className="h-4 w-4 mr-2" />
-            <span>info@vinayakasolar.com</span>
+            <span>vinayakasolarpowersolutions@gmail.com</span>
           </div>
         </div>
         <p className="text-center text-xs text-gray-500 mt-2">

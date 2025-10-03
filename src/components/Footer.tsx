@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
                 <span className="text-lg lg:text-xl font-bold">Vinayaka Solar</span>
               </div>
               <p className="text-sm text-gray-300 leading-relaxed">
-                Leading solar energy solutions provider in Andhra Pradesh - serving Chittoor, Tirupati, Madanapalle, Punganur, Palamaner, Kuppam, Nagari, and surrounding areas.
+                Leading solar energy solutions provider in Andhra Pradesh - serving Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, Pileru, and surrounding areas.
                 Professional solar panel installation with government subsidy assistance and PM solar scheme benefits.
               </p>
             </div>
@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
                 <div className="flex items-start space-x-3">
                   <Mail className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-gray-300">info@vinayakasolar.com</p>
+                    <p className="text-gray-300">vinayakasolarpowersolutions@gmail.com</p>
                     <p className="text-gray-400 text-xs">Email Support</p>
                   </div>
                 </div>

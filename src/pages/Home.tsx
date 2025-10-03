@@ -40,8 +40,8 @@ const Home: React.FC = () => {
   ];
 
   const stats = [
-    { number: "500+", label: "Installations", icon: <CheckCircle className="h-6 w-6" /> },
-    { number: "150+", label: "Team Members", icon: <Users className="h-6 w-6" /> },
+    { number: "200+", label: "Installations", icon: <CheckCircle className="h-6 w-6" /> },
+    { number: "50+", label: "Team Members", icon: <Users className="h-6 w-6" /> },
     { number: "18+", label: "Years Experience", icon: <TrendingUp className="h-6 w-6" /> },
     { number: "20+", label: "Cities Served", icon: <Globe className="h-6 w-6" /> }
   ];
@@ -164,7 +164,7 @@ const Home: React.FC = () => {
               Solar Installation Showcase
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              See our professional solar panel installations across Andhra Pradesh - from Chittoor solar panels to Tirupati solar systems, Madanapalle rooftop solar, and Palamaner solar power solutions
+              See our professional solar panel installations across Andhra Pradesh - from Chittoor solar panels to Madhanapalli solar systems, Tirupathi rooftop solar, and Sathyavedu solar power solutions
             </p>
           </div>
           
@@ -194,7 +194,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Perfect for Homes</h4>
-                <p className="text-gray-600 text-sm">Reduce electricity bills by up to 90% with residential solar panels, rooftop solar systems, and home solar power solutions in Chittoor, Tirupati, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Reduce electricity bills by up to 90% with residential solar panels, rooftop solar systems, and home solar power solutions in Chittoor, Madhanapalli, Tirupathi, and across Andhra Pradesh</p>
               </div>
             </motion.div>
 
@@ -224,7 +224,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Business Benefits</h4>
-                <p className="text-gray-600 text-sm">Cut operational costs and improve your business sustainability with commercial solar panels, business solar systems, and office solar power solutions in Tirupati, Madanapalle, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Cut operational costs and improve your business sustainability with commercial solar panels, business solar systems, and office solar power solutions in Sathyavedu, Puttur, Nagari, and across Andhra Pradesh</p>
               </div>
             </motion.div>
 
@@ -253,7 +253,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Industrial Power</h4>
-                <p className="text-gray-600 text-sm">Massive energy savings for factories and industrial facilities with industrial solar panels, factory solar systems, and large-scale solar power solutions in Palamaner, Punganur, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Massive energy savings for factories and industrial facilities with industrial solar panels, factory solar systems, and large-scale solar power solutions in Palamaneru, Pileru, and across Andhra Pradesh</p>
               </div>
             </motion.div>
           </div>
@@ -268,7 +268,7 @@ const Home: React.FC = () => {
               Why Choose Vinayaka Solar?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We provide comprehensive solar solutions with unmatched quality and service - from Chittoor solar installation to Tirupati solar maintenance, Madanapalle solar repair, and Palamaner solar consultation across Andhra Pradesh
+              We provide comprehensive solar solutions with unmatched quality and service - from Chittoor solar installation to Madhanapalli solar maintenance, Tirupathi solar repair, and Sathyavedu solar consultation across Andhra Pradesh
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

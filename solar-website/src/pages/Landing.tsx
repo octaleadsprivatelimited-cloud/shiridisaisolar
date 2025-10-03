@@ -376,7 +376,7 @@ const Landing: React.FC = () => {
       <footer className="bg-black/30 py-8 text-center text-gray-300">
         <div className="max-w-4xl mx-auto px-4">
           <p>&copy; 2024 Vinayaka Solar. All rights reserved. | ISO 9001:2015 Certified</p>
-          <p className="mt-2">Serving Andhra Pradesh: Chittoor, Tirupati, Madanapalle, Punganur, Palamaner, Kuppam, Nagari</p>
+          <p className="mt-2">Serving Andhra Pradesh: Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, Pileru</p>
         </div>
       </footer>
 

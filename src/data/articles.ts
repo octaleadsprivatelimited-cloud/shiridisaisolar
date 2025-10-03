@@ -61,7 +61,7 @@ export const articles: Article[] = [
         <li>Gandhi Road</li>
         <li>Mittoor</li>
         <li>Santhi Nagar</li>
-        <li>Palamaner Road</li>
+        <li>Palamaneru Road</li>
       </ul>
       
       <h2>Conclusion</h2>
@@ -84,14 +84,14 @@ export const articles: Article[] = [
   },
   {
     id: "2",
-    title: "Solar Energy in Tirupati: Complete Guide 2024",
+    title: "Solar Energy in Tirupathi: Complete Guide 2024",
     slug: "solar-energy-tirupati-guide-2024",
-    excerpt: "Explore solar energy opportunities in Tirupati. Learn about local solar solutions, installation costs, government subsidies, and success stories from Tirupati residents.",
+    excerpt: "Explore solar energy opportunities in Tirupathi. Learn about local solar solutions, installation costs, government subsidies, and success stories from Tirupathi residents.",
     content: `
-      <h2>Solar Energy in Tirupati</h2>
-      <p>Tirupati is rapidly adopting solar energy. Abundant sunshine and strong demand make it ideal for residential and commercial solar.</p>
+      <h2>Solar Energy in Tirupathi</h2>
+      <p>Tirupathi is rapidly adopting solar energy. Abundant sunshine and strong demand make it ideal for residential and commercial solar.</p>
       
-      <h2>Solar Potential in Tirupati</h2>
+      <h2>Solar Potential in Tirupathi</h2>
       <ul>
         <li>Sunshine hours: 6-7 hours daily average</li>
         <li>Solar irradiance: 5.5-6.0 kWh/m²/day</li>
@@ -99,7 +99,7 @@ export const articles: Article[] = [
         <li>Roof space: Abundant residential and commercial</li>
       </ul>
       
-      <h2>Installation Costs in Tirupati</h2>
+      <h2>Installation Costs in Tirupathi</h2>
       <p>Typical solar system costs:</p>
       <ul>
         <li>2 kW: ₹85,000-₹1,20,000</li>
@@ -109,7 +109,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Local Solar Expertise</h2>
-      <p>Vinayaka Solar serves Tirupati with:</p>
+      <p>Vinayaka Solar serves Tirupathi with:</p>
       <ul>
         <li>Local office and support team</li>
         <li>Quick installation services</li>
@@ -138,33 +138,33 @@ export const articles: Article[] = [
       <p>Local businesses and residents have achieved significant savings. A hotel near Alipiri saved ₹15,000 monthly with a 25kW commercial system.</p>
       
       <h2>Conclusion</h2>
-      <p>Tirupati offers excellent solar opportunities with government support and local expertise. Start your solar journey today.</p>
+      <p>Tirupathi offers excellent solar opportunities with government support and local expertise. Start your solar journey today.</p>
     `,
     author: "Solar Expert",
     authorBio: "Specialist in Rayalaseema solar installations with extensive knowledge of local market and regulations.",
     publishDate: "2024-03-19",
     readTime: "7 min read",
     category: "location-guide",
-    tags: ["solar energy Tirupati", "solar panels Tirupati", "solar installation Tirupati", "solar companies Tirupati"],
+    tags: ["solar energy Tirupathi", "solar panels Tirupathi", "solar installation Tirupathi", "solar companies Tirupathi"],
     image: "/images/locations/tirupati-solar.jpg",
     featured: false,
-    seoTitle: "Solar Energy in Tirupati 2024 | Installation Costs & Local Companies",
-    seoDescription: "Complete guide to solar energy in Tirupati. Learn about installation costs, local companies, government subsidies, and success stories.",
-    seoKeywords: ["solar energy Tirupati", "solar panels Tirupati", "solar installation Tirupati", "solar companies Tirupati", "solar cost Tirupati"],
+    seoTitle: "Solar Energy in Tirupathi 2024 | Installation Costs & Local Companies",
+    seoDescription: "Complete guide to solar energy in Tirupathi. Learn about installation costs, local companies, government subsidies, and success stories.",
+    seoKeywords: ["solar energy Tirupathi", "solar panels Tirupathi", "solar installation Tirupathi", "solar companies Tirupathi", "solar cost Tirupathi"],
     relatedArticles: ["solar-energy-chittoor-guide-2024", "solar-energy-madanapalle-guide-2024", "solar-energy-palamaner-guide-2024"],
-    location: "Tirupati",
+    location: "Tirupathi",
     contactForm: true
   },
   {
     id: "3",
-    title: "Solar Energy in Madanapalle: Complete Guide 2024",
+    title: "Solar Energy in Madhanapalli: Complete Guide 2024",
     slug: "solar-energy-madanapalle-guide-2024",
-    excerpt: "Discover solar energy solutions in Madanapalle. Learn about local solar companies, installation costs, government subsidies, and success stories from Madanapalle residents.",
+    excerpt: "Discover solar energy solutions in Madhanapalli. Learn about local solar companies, installation costs, government subsidies, and success stories from Madhanapalli residents.",
     content: `
-      <h2>Solar Energy in Madanapalle</h2>
-      <p>Madanapalle, in the Chittoor district, is adopting solar rapidly. The climate and roof availability make it ideal for rooftop systems.</p>
+      <h2>Solar Energy in Madhanapalli</h2>
+      <p>Madhanapalli, in the Chittoor district, is adopting solar rapidly. The climate and roof availability make it ideal for rooftop systems.</p>
       
-      <h2>Why Solar in Madanapalle?</h2>
+      <h2>Why Solar in Madhanapalli?</h2>
       <ul>
         <li>Abundant sunshine: 6–8 hours daily</li>
         <li>High electricity consumption</li>
@@ -173,7 +173,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Solar Installation Costs</h2>
-      <p>Typical costs in Madanapalle:</p>
+      <p>Typical costs in Madhanapalli:</p>
       <ul>
         <li>Residential 3 kW: ₹1,25,000-₹1,80,000</li>
         <li>Commercial 25 kW: ₹8,50,000-₹12,00,000</li>
@@ -182,7 +182,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Local Solar Services</h2>
-      <p>Vinayaka Solar provides in Madanapalle:</p>
+      <p>Vinayaka Solar provides in Madhanapalli:</p>
       <ul>
         <li>Free site assessment</li>
         <li>Custom solar solutions</li>
@@ -199,7 +199,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Commercial & Industrial Solar</h2>
-      <p>Madanapalle's commercial sector benefits from:</p>
+      <p>Madhanapalli's commercial sector benefits from:</p>
       <ul>
         <li>Large-scale solar installations</li>
         <li>Energy cost reduction</li>
@@ -216,21 +216,21 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Conclusion</h2>
-      <p>Madanapalle offers excellent opportunities for both residential and commercial solar installations with government support and local expertise.</p>
+      <p>Madhanapalli offers excellent opportunities for both residential and commercial solar installations with government support and local expertise.</p>
     `,
     author: "Industrial Solar Expert",
     authorBio: "Specialist in industrial solar installations with expertise in Rayalaseema and large-scale projects.",
     publishDate: "2024-03-18",
     readTime: "6 min read",
     category: "location-guide",
-    tags: ["solar energy Madanapalle", "solar panels Madanapalle", "industrial solar Madanapalle", "solar companies Madanapalle"],
+    tags: ["solar energy Madhanapalli", "solar panels Madhanapalli", "industrial solar Madhanapalli", "solar companies Madhanapalli"],
     image: "/images/locations/madanapalle-solar.jpg",
     featured: false,
-    seoTitle: "Solar Energy in Madanapalle 2024 | Industrial & Residential Solar Solutions",
-    seoDescription: "Complete guide to solar energy in Madanapalle. Learn about industrial and residential solar solutions, costs, and local companies.",
-    seoKeywords: ["solar energy Madanapalle", "solar panels Madanapalle", "industrial solar Madanapalle", "solar companies Madanapalle", "solar cost Madanapalle"],
+    seoTitle: "Solar Energy in Madhanapalli 2024 | Industrial & Residential Solar Solutions",
+    seoDescription: "Complete guide to solar energy in Madhanapalli. Learn about industrial and residential solar solutions, costs, and local companies.",
+    seoKeywords: ["solar energy Madhanapalli", "solar panels Madhanapalli", "industrial solar Madhanapalli", "solar companies Madhanapalli", "solar cost Madhanapalli"],
     relatedArticles: ["solar-energy-chittoor-guide-2024", "solar-energy-tirupati-guide-2024", "solar-energy-palamaner-guide-2024"],
-    location: "Madanapalle",
+    location: "Madhanapalli",
     contactForm: true
   }
 ];
@@ -239,7 +239,7 @@ export const articles: Article[] = [
 const additionalLocations = [
   "Amalapuram", "Tanuku", "Eluru", "Bhimavaram", "Palakollu", "Narsapur", 
   "Machilipatnam", "Gudivada", "Vijayawada", "Guntur", "Ongole", "Nellore",
-  "Tirupati", "Chittoor", "Anantapur", "Kurnool", "Kadapa"
+  "Tirupathi", "Chittoor", "Madhanapalli", "Sathyavedu", "Puttur", "Nagari", "Palamaneru", "Pileru"
 ];
 
 additionalLocations.forEach((location, index) => {

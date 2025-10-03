@@ -136,7 +136,7 @@ The build folder will contain all production-ready files.
 ## 📞 Contact Information
 
 - **Phone**: +91 9100116156
-- **Email**: info@solarisinovations.in
+- **Email**: vinayakasolarpowersolutions@gmail.com
 - **Service Areas**: Hyderabad, Karimnagar, Warangal, Nizamabad, Khammam
 
 ## 🔧 Configuration
@@ -146,7 +146,7 @@ Create a `.env` file for environment-specific configurations:
 ```env
 REACT_APP_COMPANY_NAME=Vinayaka Solar
 REACT_APP_PHONE_NUMBER=+919100116156
-REACT_APP_EMAIL=info@solarisinovations.in
+REACT_APP_EMAIL=vinayakasolarpowersolutions@gmail.com
 ```
 
 ### Tailwind Configuration
@@ -180,7 +180,7 @@ Customize colors, fonts, and animations in `tailwind.config.js`
 
 For contributions and collaboration, please contact us directly:
 - Phone: +91 9100116156
-- Email: info@solarisinovations.in
+- Email: vinayakasolarpowersolutions@gmail.com
 
 ## 📄 License
 

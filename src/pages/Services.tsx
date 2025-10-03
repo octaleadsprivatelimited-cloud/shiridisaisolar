@@ -102,7 +102,7 @@ const Services: React.FC = () => {
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
             Comprehensive solar solutions for residential, commercial, and industrial needs across Andhra Pradesh. 
-            Expert solar panel installation with premium quality components in Chittoor, Tirupati, Madanapalle, Punganur, Palamaner, Kuppam, and Nagari.
+            Expert solar panel installation with premium quality components in Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, and Pileru.
           </motion.p>
         </div>
       </section>
@@ -115,7 +115,7 @@ const Services: React.FC = () => {
               Solar Installation Services
             </h2>
             <p className="text-xl text-gray-600">
-              Choose the perfect solar solution for your energy needs - from Chittoor solar panels to Tirupati solar systems, Madanapalle rooftop solar, and Palamaner solar power solutions
+              Choose the perfect solar solution for your energy needs - from Chittoor solar panels to Madhanapalli solar systems, Tirupathi rooftop solar, and Sathyavedu solar power solutions
             </p>
           </div>
           

@@ -12,7 +12,7 @@ import {
 
 const About: React.FC = () => {
   const achievements = [
-    { number: "500+", label: "Successful Installations", icon: <CheckCircle className="h-8 w-8" /> },
+    { number: "200+", label: "Successful Installations", icon: <CheckCircle className="h-8 w-8" /> },
     { number: "50+", label: "Expert Team Members", icon: <Users className="h-8 w-8" /> },
     { number: "10+", label: "Years of Experience", icon: <Award className="h-8 w-8" /> },
     { number: "15", label: "Cities Served", icon: <Globe className="h-8 w-8" /> }
@@ -93,7 +93,7 @@ const About: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Leading solar energy company in Andhra Pradesh, serving Chittoor, Tirupati, Madanapalle, Punganur, Palamaner, Kuppam, and Nagari. Committed to providing sustainable 
+            Leading solar energy company in Andhra Pradesh, serving Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, and Pileru. Committed to providing sustainable 
             energy solutions, solar panel installation, and exceptional customer service across the state.
           </motion.p>
         </div>
@@ -302,7 +302,7 @@ const About: React.FC = () => {
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4 lg:gap-6">
-            {['Chittoor', 'Tirupati', 'Madanapalle', 'Punganur', 'Palamaner', 'Kuppam', 'Nagari'].map((city, index) => (
+            {['Chittoor', 'Madhanapalli', 'Tirupathi', 'Sathyavedu', 'Puttur', 'Nagari', 'Palamaneru', 'Pileru'].map((city, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, scale: 0.8 }}

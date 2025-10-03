@@ -132,7 +132,7 @@ Update the following files to customize content:
 ## 📞 Contact Information
 
 - **Phone**: +91 9100116156
-- **Email**: info@solarisinovations.in
+- **Email**: vinayakasolarpowersolutions@gmail.com
 - **Service Areas**: Kakinada, Visakhapatnam, Rajahmundry
 
 ## 🔧 Configuration
@@ -142,7 +142,7 @@ Create a `.env` file for environment-specific configurations:
 ```env
 REACT_APP_COMPANY_NAME=Vinayaka Solar
 REACT_APP_PHONE_NUMBER=+919100116156
-REACT_APP_EMAIL=info@solarisinovations.in
+REACT_APP_EMAIL=vinayakasolarpowersolutions@gmail.com
 ```
 
 ### Tailwind Configuration

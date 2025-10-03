@@ -1,13 +1,14 @@
 // Location-based keywords for Andhra Pradesh
 export const locationKeywords = {
   cities: [
-    'Chittoor',
-    'Tirupati',
-    'Madanapalle',
-    'Punganur',
-    'Palamaner',
-    'Kuppam',
-    'Nagari'
+  'Chittoor',
+  'Madhanapalli',
+  'Tirupathi',
+  'Sathyavedu',
+  'Puttur',
+  'Nagari',
+  'Palamaneru',
+  'Pileru'
   ],
   regions: [
     'Andhra Pradesh',
@@ -51,12 +52,13 @@ export const solarKeywords = {
 // Combined location + solar keywords
 export const combinedKeywords = [
   'Chittoor solar panels',
-  'Tirupati solar systems',
-  'Madanapalle rooftop solar',
-  'Punganur solar power',
-  'Palamaner solar installation',
-  'Kuppam solar energy',
-  'Nagari solar solutions',
+  'Madhanapalli solar systems',
+  'Tirupathi rooftop solar',
+  'Sathyavedu solar power',
+  'Puttur solar installation',
+  'Nagari solar energy',
+  'Palamaneru solar solutions',
+  'Pileru solar panels',
   'Andhra Pradesh solar company',
   'South India solar panels'
 ];
@@ -65,12 +67,13 @@ export const combinedKeywords = [
 export const metaKeywords = [
   'solar panels Andhra Pradesh',
   'solar installation Chittoor',
-  'rooftop solar Tirupati',
-  'solar power Madanapalle',
-  'solar energy Punganur',
-  'solar company Palamaner',
-  'solar panels Kuppam',
-  'solar solutions Nagari',
+  'rooftop solar Madhanapalli',
+  'solar power Tirupathi',
+  'solar energy Sathyavedu',
+  'solar company Puttur',
+  'solar panels Nagari',
+  'solar solutions Palamaneru',
+  'solar installation Pileru',
   'PM solar scheme',
   'solar subsidy Andhra Pradesh',
   'solar maintenance',

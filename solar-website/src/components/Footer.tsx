@@ -71,8 +71,8 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-yellow-500 mr-2" />
-                <a href="mailto:info@vinayakasolar.com" className="text-gray-300 hover:text-yellow-500 transition-colors">
-                  info@vinayakasolar.com
+                <a href="mailto:vinayakasolarpowersolutions@gmail.com" className="text-gray-300 hover:text-yellow-500 transition-colors">
+                  vinayakasolarpowersolutions@gmail.com
                 </a>
               </div>
               <div className="flex items-start">
@@ -97,7 +97,7 @@ const Footer: React.FC = () => {
         <div className="mt-8 pt-8 border-t border-gray-700">
           <h4 className="text-lg font-semibold mb-4 text-yellow-500 text-center">Service Areas</h4>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4 text-center">
-            {['Visakhapatnam', 'Rajahmundry', 'Amalapuram', 'Kakinada', 'Tanuku', 'Eluru', 'Bhimavaram'].map((city) => (
+            {['Chittoor', 'Madhanapalli', 'Tirupathi', 'Sathyavedu', 'Puttur', 'Nagari', 'Palamaneru', 'Pileru'].map((city) => (
               <div key={city} className="text-gray-300 hover:text-yellow-500 transition-colors cursor-pointer">
                 {city}
               </div>

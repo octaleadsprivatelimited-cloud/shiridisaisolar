@@ -12,7 +12,7 @@ import {
 
 const About: React.FC = () => {
   const achievements = [
-    { number: "500+", label: "Successful Installations", icon: <CheckCircle className="h-8 w-8" /> },
+    { number: "200+", label: "Successful Installations", icon: <CheckCircle className="h-8 w-8" /> },
     { number: "50+", label: "Expert Team Members", icon: <Users className="h-8 w-8" /> },
     { number: "10+", label: "Years of Experience", icon: <Award className="h-8 w-8" /> },
     { number: "7", label: "Cities Served", icon: <Globe className="h-8 w-8" /> }
@@ -296,7 +296,7 @@ const About: React.FC = () => {
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-6">
-            {['Visakhapatnam', 'Rajahmundry', 'Amalapuram', 'Kakinada', 'Tanuku', 'Eluru', 'Bhimavaram'].map((city, index) => (
+            {['Chittoor', 'Madhanapalli', 'Tirupathi', 'Sathyavedu', 'Puttur', 'Nagari', 'Palamaneru', 'Pileru'].map((city, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, scale: 0.8 }}
