@@ -42,13 +42,13 @@ const Navbar: React.FC = () => {
     <nav className="bg-white shadow-md fixed w-full z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/" className="flex items-center">
             <img 
               src="/shrisiridisaisolar_logo.jpg" 
-              alt="Sri Shiridi Sai Solar Logo" 
-              className="h-12 w-auto"
+              alt="Sri Shiridi Sai Solar" 
+              className="h-14 w-auto object-contain"
+              style={{ maxWidth: '200px' }}
             />
-            <span className="text-xl font-bold text-gray-900">Sri Shiridi Sai Solar</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
