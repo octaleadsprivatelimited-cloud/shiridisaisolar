@@ -1,6 +1,6 @@
-# Vinayaka Solar - Solar Panel Installation Website
+# Sri Shiridi Sai Solar - Solar Panel Installation Website
 
-A professional, responsive website for a solar panel installation company operating in Telangana, India.
+A professional, responsive website for a solar panel installation company based in Vijayawada, operating in Andhra Pradesh, India.
 
 ## 🌟 Features
 
@@ -11,7 +11,7 @@ A professional, responsive website for a solar panel installation company operat
 - **WhatsApp Integration**: Floating WhatsApp button for instant contact
 - **Modern UI/UX**: Professional design with smooth animations
 - **Contact Forms**: Lead generation forms with validation
-- **Service Areas**: Coverage in 15 major cities of Telangana
+- **Service Areas**: Coverage across Krishna, Guntur, and Visakhapatnam districts in Andhra Pradesh
 
 ## 🚀 Tech Stack
 
@@ -24,21 +24,10 @@ A professional, responsive website for a solar panel installation company operat
 
 ## 📱 Service Areas
 
-- Hyderabad
-- Karimnagar
-- Warangal
-- Nizamabad
-- Khammam
-- Ramagundam
-- Mahabubnagar
-- Adilabad
-- Nalgonda
-- Medak
-- Rangareddy
-- Suryapet
-- Miryalaguda
-- Siddipet
-- Jagtial
+Based in Vijayawada, we serve:
+- Krishna District
+- Guntur District  
+- Visakhapatnam District
 
 ## 🏗️ Installation & Setup
 
@@ -135,18 +124,18 @@ The build folder will contain all production-ready files.
 
 ## 📞 Contact Information
 
-- **Phone**: +91 9100116156
-- **Email**: vinayakasolarpowersolutions@gmail.com
-- **Service Areas**: Hyderabad, Karimnagar, Warangal, Nizamabad, Khammam
+- **Phone**: +91 90637 58507
+- **Email**: info@shiridisaisolars.com
+- **Service Areas**: Krishna, Guntur, and Visakhapatnam districts in Andhra Pradesh
 
 ## 🔧 Configuration
 
 ### Environment Variables
 Create a `.env` file for environment-specific configurations:
 ```env
-REACT_APP_COMPANY_NAME=Vinayaka Solar
-REACT_APP_PHONE_NUMBER=+919100116156
-REACT_APP_EMAIL=vinayakasolarpowersolutions@gmail.com
+REACT_APP_COMPANY_NAME=Sri Shiridi Sai Solar
+REACT_APP_PHONE_NUMBER=+919063758507
+REACT_APP_EMAIL=info@shiridisaisolars.com
 ```
 
 ### Tailwind Configuration
@@ -179,8 +168,8 @@ Customize colors, fonts, and animations in `tailwind.config.js`
 ## 🤝 Contributing
 
 For contributions and collaboration, please contact us directly:
-- Phone: +91 9100116156
-- Email: vinayakasolarpowersolutions@gmail.com
+- Phone: +91 90637 58507
+- Email: info@shiridisaisolars.com
 
 ## 📄 License
 
@@ -191,8 +180,8 @@ This project is licensed under the MIT License.
 For support and questions:
 
 - Phone: +91 9100116156
-- WhatsApp: +91 9100116156
+- WhatsApp: +91 90637 58507
 
 ---
 
-**Vinayaka Solar** - Powering the future with solar energy! ☀️
+**Sri Shiridi Sai Solar** - Powering the future with solar energy! ☀️

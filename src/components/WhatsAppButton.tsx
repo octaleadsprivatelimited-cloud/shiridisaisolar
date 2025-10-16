@@ -13,7 +13,7 @@ const WhatsAppButton: React.FC = () => {
     const message = encodeURIComponent(
       "Hi! I'm interested in solar installation. Can you provide me with more information about your services and pricing?"
     );
-    const whatsappUrl = `https://wa.me/919100116156?text=${message}`;
+    const whatsappUrl = `https://wa.me/919063758507?text=${message}`;
     window.open(whatsappUrl, '_blank');
   };
 

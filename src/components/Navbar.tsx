@@ -45,7 +45,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Sun className="h-8 w-8 text-yellow-500" />
-            <span className="text-xl font-bold text-gray-900">Vinayaka Solar</span>
+            <span className="text-xl font-bold text-gray-900">Sri Shiridi Sai Solar</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">

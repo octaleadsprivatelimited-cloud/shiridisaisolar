@@ -49,19 +49,19 @@ const Contact: React.FC = () => {
     {
       icon: <Phone className="h-8 w-8 text-yellow-500" />,
       title: "Phone",
-      details: ["+91 9100116156"],
-      action: "tel:+919100116156"
+      details: ["+91 90637 58507"],
+      action: "tel:+919063758507"
     },
     {
       icon: <Mail className="h-8 w-8 text-yellow-500" />,
       title: "Email",
-      details: ["vinayakasolarpowersolutions@gmail.com"],
-      action: "mailto:vinayakasolarpowersolutions@gmail.com"
+      details: ["info@shiridisaisolars.com"],
+      action: "mailto:info@shiridisaisolars.com"
     },
     {
       icon: <MapPin className="h-8 w-8 text-yellow-500" />,
       title: "Service Areas",
-      details: ["Chittoor", "Madhanapalli", "Tirupathi", "Sathyavedu", "Puttur", "Nagari", "Palamaneru", "Pileru"],
+      details: ["Krishna District", "Guntur District", "Visakhapatnam District"],
       action: "#"
     },
     {
@@ -73,9 +73,8 @@ const Contact: React.FC = () => {
   ];
 
   const cities = [
-    'Chittoor', 'Madhanapalli', 'Tirupathi',
-    'Sathyavedu', 'Puttur', 'Nagari',
-    'Palamaneru', 'Pileru'
+    'Vijayawada', 'Guntur', 'Visakhapatnam',
+    'Krishna District', 'Guntur District', 'Visakhapatnam District'
   ];
 
   const systemSizes = [
@@ -312,7 +311,7 @@ const Contact: React.FC = () => {
                       <h4 className="font-semibold text-gray-900">WhatsApp</h4>
                       <p className="text-gray-600">Get instant response on WhatsApp</p>
                       <a
-                        href="https://wa.me/919100116156"
+                        href="https://wa.me/919063758507"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-yellow-600 hover:text-yellow-700 font-medium"
@@ -345,27 +344,30 @@ const Contact: React.FC = () => {
                   </h4>
                   <div className="mb-4">
                     <p className="text-gray-600 text-sm mb-2">
-                      10-401/B.MBR Complex. DI Road Near Premala Theatre
+                      Plot No 21, CTO Colony
                     </p>
                     <p className="text-gray-600 text-sm">
-                      Chittoor, Andhra Pradesh - 517001
+                      Vijayawada, Krishna District
+                    </p>
+                    <p className="text-gray-600 text-sm">
+                      Andhra Pradesh - 520001
                     </p>
                   </div>
                   <div className="relative w-full h-64 rounded-lg overflow-hidden">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.123456789!2d79.0994768!3d13.2202461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDEzJzEyLjAiTiA3OcKwMDUnNTguMSJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.123456789!2d80.6480!3d16.5062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTbCsDMwJzIyLjAiTiA4MMKwMzgnNTMuMCJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
                       allowFullScreen
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Vinayaka Solar Location"
+                      title="Sri Shiridi Sai Solar Location"
                     ></iframe>
                   </div>
                   <div className="mt-4 flex flex-col sm:flex-row gap-2">
                     <a
-                      href="https://maps.google.com/maps?q=13.2202461,79.0994768&z=17&hl=en"
+                      href="https://maps.google.com/maps?q=16.5062,80.6480&z=17&hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 transition-colors text-sm font-medium"
@@ -440,13 +442,13 @@ const Contact: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919100116156"
+              href="tel:+919063758507"
               className="bg-gray-900 hover:bg-gray-800 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
-                              Call Now: +91 9100116156
+                              Call Now: +91 90637 58507
             </a>
             <a
-              href="https://wa.me/919100116156"
+              href="https://wa.me/919063758507"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-gray-900 text-gray-900 hover:bg-gray-900 hover:text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"

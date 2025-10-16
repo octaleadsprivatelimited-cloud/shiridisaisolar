@@ -100,7 +100,7 @@ const Home: React.FC = () => {
               </div>
               
               <p className="text-xl text-gray-200 mb-8">
-                A leading solar panel installation company from Andhra Pradesh, our expertise and trusted services now reach customers all over India. Save money, save the environment, and enjoy reliable clean energy with our comprehensive rooftop solar panels and advanced energy solutions.
+                Based in Vijayawada, we are a leading solar panel installation company serving Krishna, Guntur, and Visakhapatnam districts in Andhra Pradesh. Save money, save the environment, and enjoy reliable clean energy with our comprehensive rooftop solar panels and advanced energy solutions.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button
@@ -164,7 +164,7 @@ const Home: React.FC = () => {
               Solar Installation Showcase
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              See our professional solar panel installations across Andhra Pradesh - from Chittoor solar panels to Madhanapalli solar systems, Tirupathi rooftop solar, and Sathyavedu solar power solutions
+              See our professional solar panel installations across Andhra Pradesh - serving Krishna, Guntur, and Visakhapatnam districts with quality solar solutions
             </p>
           </div>
           
@@ -194,7 +194,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Perfect for Homes</h4>
-                <p className="text-gray-600 text-sm">Reduce electricity bills by up to 90% with residential solar panels, rooftop solar systems, and home solar power solutions in Chittoor, Madhanapalli, Tirupathi, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Reduce electricity bills by up to 90% with residential solar panels, rooftop solar systems, and home solar power solutions in Krishna, Guntur, Visakhapatnam districts</p>
               </div>
             </motion.div>
 
@@ -224,7 +224,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Business Benefits</h4>
-                <p className="text-gray-600 text-sm">Cut operational costs and improve your business sustainability with commercial solar panels, business solar systems, and office solar power solutions in Sathyavedu, Puttur, Nagari, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Cut operational costs and improve your business sustainability with commercial solar panels, business solar systems, and office solar power solutions across Krishna, Guntur, Visakhapatnam districts</p>
               </div>
             </motion.div>
 
@@ -253,7 +253,7 @@ const Home: React.FC = () => {
               </div>
               <div className="p-6">
                 <h4 className="font-semibold text-gray-900 mb-2">Industrial Power</h4>
-                <p className="text-gray-600 text-sm">Massive energy savings for factories and industrial facilities with industrial solar panels, factory solar systems, and large-scale solar power solutions in Palamaneru, Pileru, and across Andhra Pradesh</p>
+                <p className="text-gray-600 text-sm">Massive energy savings for factories and industrial facilities with industrial solar panels, factory solar systems, and large-scale solar power solutions across Krishna, Guntur, Visakhapatnam districts</p>
               </div>
             </motion.div>
           </div>
@@ -265,10 +265,10 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Vinayaka Solar?
+              Why Choose Sri Shiridi Sai Solar?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We provide comprehensive solar solutions with unmatched quality and service - from Chittoor solar installation to Madhanapalli solar maintenance, Tirupathi solar repair, and Sathyavedu solar consultation across Andhra Pradesh
+              We provide comprehensive solar solutions with unmatched quality and service - serving Krishna, Guntur, and Visakhapatnam districts with professional solar installation, maintenance, repair, and consultation services
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -317,14 +317,14 @@ const Home: React.FC = () => {
             Ready to Go Solar?
           </h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            We are proud to serve customers across India who have embraced the benefits of solar energy. Join the growing community that has already transitioned to sustainable power. Contact us today for a complimentary solar consultation on rooftop solar panels, integrated solar power systems, and customized solar energy solutions.
+            Serving Vijayawada and surrounding areas in Krishna, Guntur, and Visakhapatnam districts. Join the growing community that has already transitioned to sustainable power. Contact us today for a complimentary solar consultation on rooftop solar panels, integrated solar power systems, and customized solar energy solutions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919100116156"
+              href="tel:+919063758507"
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
-              Call Now: +91 9100116156
+              Call Now: +91 90637 58507
             </a>
             <button
               onClick={openWhatsAppQuote}

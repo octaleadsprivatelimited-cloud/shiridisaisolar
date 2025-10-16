@@ -48,7 +48,7 @@ const ArticlePage: React.FC = () => {
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Vinayaka Solar",
+      "name": "Sri Shiridi Sai Solar",
       "logo": {
         "@type": "ImageObject",
         "url": "https://solarisinovations.in/logo.png"
@@ -96,7 +96,7 @@ const ArticlePage: React.FC = () => {
         <meta property="og:description" content={article.excerpt} />
         <meta property="og:image" content={`https://solarisinovations.in${article.image}`} />
         <meta property="og:url" content={`https://solarisinovations.in/blog/${article.slug}`} />
-        <meta property="og:site_name" content="Vinayaka Solar" />
+        <meta property="og:site_name" content="Sri Shiridi Sai Solar" />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />

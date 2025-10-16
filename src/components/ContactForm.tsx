@@ -215,11 +215,11 @@ const ContactForm: React.FC<ContactFormProps> = ({ location, articleTitle, class
         <div className="flex items-center justify-center space-x-6 text-sm text-gray-600">
           <div className="flex items-center">
             <Phone className="h-4 w-4 mr-2" />
-            <span>+91 9100116156</span>
+            <span>+91 90637 58507</span>
           </div>
           <div className="flex items-center">
             <Mail className="h-4 w-4 mr-2" />
-            <span>vinayakasolarpowersolutions@gmail.com</span>
+            <span>info@shiridisaisolars.com</span>
           </div>
         </div>
         <p className="text-center text-xs text-gray-500 mt-2">

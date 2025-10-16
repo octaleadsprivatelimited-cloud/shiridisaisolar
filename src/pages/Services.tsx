@@ -102,7 +102,7 @@ const Services: React.FC = () => {
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
             Comprehensive solar solutions for residential, commercial, and industrial needs across Andhra Pradesh. 
-            Expert solar panel installation with premium quality components in Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, and Pileru.
+            Expert solar panel installation with premium quality components in Krishna, Guntur, and Visakhapatnam districts.
           </motion.p>
         </div>
       </section>
@@ -115,7 +115,7 @@ const Services: React.FC = () => {
               Solar Installation Services
             </h2>
             <p className="text-xl text-gray-600">
-              Choose the perfect solar solution for your energy needs - from Chittoor solar panels to Madhanapalli solar systems, Tirupathi rooftop solar, and Sathyavedu solar power solutions
+              Choose the perfect solar solution for your energy needs - serving Vijayawada, Guntur, Visakhapatnam, and surrounding areas in Krishna, Guntur, and Visakhapatnam districts
             </p>
           </div>
           
@@ -300,13 +300,13 @@ const Services: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919100116156"
+              href="tel:+919063758507"
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
-                              Call Now: +91 9100116156
+                              Call Now: +91 90637 58507
             </a>
             <a
-              href="https://wa.me/919100116156"
+              href="https://wa.me/919063758507"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-white hover:bg-white hover:text-gray-900 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"

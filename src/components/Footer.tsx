@@ -13,10 +13,10 @@ const Footer: React.FC = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
                 <Sun className="h-6 w-6 text-yellow-500" />
-                <span className="text-lg lg:text-xl font-bold">Vinayaka Solar</span>
+                <span className="text-lg lg:text-xl font-bold">Sri Shiridi Sai Solar</span>
               </div>
               <p className="text-sm text-gray-300 leading-relaxed">
-                Leading solar energy solutions provider in Andhra Pradesh - serving Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, Pileru, and surrounding areas.
+                Leading solar energy solutions provider based in Vijayawada, Andhra Pradesh - serving Krishna, Guntur, and Visakhapatnam districts.
                 Professional solar panel installation with government subsidy assistance and PM solar scheme benefits.
               </p>
             </div>
@@ -55,15 +55,14 @@ const Footer: React.FC = () => {
                 <div className="flex items-start space-x-3">
                   <Phone className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-gray-300">+91 9100116156</p>
-                    <p className="text-gray-300">+91 9100116056</p>
+                    <p className="text-gray-300">+91 90637 58507</p>
                     <p className="text-gray-400 text-xs">24/7 Support</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">
                   <Mail className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-gray-300">vinayakasolarpowersolutions@gmail.com</p>
+                    <p className="text-gray-300">info@shiridisaisolars.com</p>
                     <p className="text-gray-400 text-xs">Email Support</p>
                   </div>
                 </div>
@@ -71,13 +70,14 @@ const Footer: React.FC = () => {
                   <MapPin className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
                     <a 
-                      href="https://maps.google.com/maps?q=13.2202461,79.0994768&z=17&hl=en"
+                      href="https://maps.google.com/maps?q=16.5062,80.6480&z=17&hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-gray-300 hover:text-yellow-500 transition-colors cursor-pointer block"
                     >
-                      <p>10-401/B.MBR Complex. DI Road Near Premala Theatre</p>
-                      <p>Chittoor, Andhra Pradesh - 517001</p>
+                      <p>Plot No 21, CTO Colony</p>
+                      <p>Vijayawada, Krishna District</p>
+                      <p>Andhra Pradesh - 520001</p>
                     </a>
                   </div>
                 </div>
@@ -91,7 +91,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-3 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-sm text-gray-400">
-                © 2024 Vinayaka Solar. All rights reserved. | Developed by{' '}
+                © 2024 Sri Shiridi Sai Solar. All rights reserved. | Developed by{' '}
                 <a 
                   href="https://www.octaleads.com/" 
                   target="_blank" 

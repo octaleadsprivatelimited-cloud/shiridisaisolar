@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://vinayakasolar.in/sitemap.xml
+Sitemap: https://shiridisaisolars.com/sitemap.xml
 
 # Disallow admin and private areas
 Disallow: /admin/

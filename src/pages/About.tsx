@@ -37,27 +37,6 @@ const About: React.FC = () => {
     }
   ];
 
-  const team = [
-    {
-      name: "Rajesh Kumar",
-      position: "CEO & Founder",
-      experience: "15+ years in renewable energy",
-      expertise: "Solar system design & business development"
-    },
-    {
-      name: "Priya Sharma",
-      position: "Technical Director",
-      experience: "12+ years in solar engineering",
-      expertise: "System optimization & quality control"
-    },
-    {
-      name: "Amit Patel",
-      position: "Operations Manager",
-      experience: "10+ years in project management",
-      expertise: "Installation & customer service"
-    }
-  ];
-
   const certifications = [
     "ISO 9001:2015 Quality Management",
     "BIS Certified Solar Panels",
@@ -85,7 +64,7 @@ const About: React.FC = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl lg:text-5xl font-bold mb-6"
           >
-            About Vinayaka Solar
+            About Sri Shiridi Sai Solar
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -93,8 +72,8 @@ const About: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Leading solar energy company in Andhra Pradesh, serving Chittoor, Madhanapalli, Tirupathi, Sathyavedu, Puttur, Nagari, Palamaneru, and Pileru. Committed to providing sustainable 
-            energy solutions, solar panel installation, and exceptional customer service across the state.
+            Leading solar energy company based in Vijayawada, Andhra Pradesh, serving Krishna, Guntur, and Visakhapatnam districts. Committed to providing sustainable 
+            energy solutions, solar panel installation, and exceptional customer service across the region.
           </motion.p>
         </div>
       </section>
@@ -112,12 +91,12 @@ const About: React.FC = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2011, Vinayaka Solar began with a clear mission: to make solar energy 
-                accessible and affordable for households and businesses across India.
+                Founded with a clear mission: to make solar energy 
+                accessible and affordable for households and businesses across Andhra Pradesh.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                What began as a small team of passionate engineers has grown into one of the nation's 
-                most trusted solar installation companies, proudly serving over 1,000 satisfied customers.
+                What began as a small team of passionate engineers has grown into one of the region's 
+                most trusted solar installation companies, proudly serving satisfied customers across Krishna, Guntur, and Visakhapatnam districts.
               </p>
               <p className="text-lg text-gray-600">
                 Today, we continue to innovate and expand our services while upholding our core 
@@ -132,11 +111,11 @@ const About: React.FC = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Our Mission</h3>
               <p className="text-lg mb-4">
-                To accelerate the adoption of solar energy across India by delivering affordable, reliable, and sustainable solar solutions.
+                To accelerate the adoption of solar energy across Andhra Pradesh by delivering affordable, reliable, and sustainable solar solutions to Krishna, Guntur, and Visakhapatnam districts.
               </p>
               <h3 className="text-2xl font-bold mb-4">Our Vision</h3>
               <p className="text-lg">
-                To become a leading solar energy company in India, driving the nation's transition to clean and renewable energy.
+                To become a leading solar energy company in Andhra Pradesh, driving the region's transition to clean and renewable energy.
               </p>
             </motion.div>
           </div>
@@ -216,50 +195,6 @@ const About: React.FC = () => {
         </div>
       </section>
 
-      {/* Team Section */}
-      <section className="py-20 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Our Leadership Team
-            </h2>
-            <p className="text-xl text-gray-600">
-              Experienced professionals dedicated to your solar success
-            </p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {team.map((member, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, delay: index * 0.1 }}
-                className="bg-white p-6 rounded-lg shadow-lg text-center"
-              >
-                <div className="w-24 h-24 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold text-white">
-                    {member.name.split(' ').map(n => n[0]).join('')}
-                  </span>
-                </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                  {member.name}
-                </h3>
-                <p className="text-yellow-600 font-medium mb-3">
-                  {member.position}
-                </p>
-                <p className="text-gray-600 mb-2">
-                  <strong>Experience:</strong> {member.experience}
-                </p>
-                <p className="text-gray-600">
-                  <strong>Expertise:</strong> {member.expertise}
-                </p>
-              </motion.div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Certifications */}
       <section className="py-12 sm:py-16 lg:py-20 bg-blue-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -297,12 +232,12 @@ const About: React.FC = () => {
               Service Areas
             </h2>
             <p className="text-lg sm:text-xl text-gray-600 px-4">
-              We proudly serve these cities in Andhra Pradesh
+              Based in Vijayawada, we proudly serve these districts in Andhra Pradesh
             </p>
           </div>
           
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4 lg:gap-6">
-            {['Chittoor', 'Madhanapalli', 'Tirupathi', 'Sathyavedu', 'Puttur', 'Nagari', 'Palamaneru', 'Pileru'].map((city, index) => (
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-3xl mx-auto">
+            {['Krishna District', 'Guntur District', 'Visakhapatnam District'].map((city, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, scale: 0.8 }}
@@ -325,18 +260,18 @@ const About: React.FC = () => {
             Ready to Work with Us?
           </h2>
           <p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8 max-w-2xl mx-auto px-4">
-            Join our growing family of satisfied customers and experience the Vinayaka Solar difference
+            Join our growing family of satisfied customers and experience the Sri Shiridi Sai Solar difference
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4">
             <a
-              href="tel:+919100116156"
+              href="tel:+919063758507"
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg transition-colors inline-flex items-center justify-center"
             >
               <Phone className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
-              Call Now: +91 9100116156
+              Call Now: +91 90637 58507
             </a>
             <a
-              href="https://wa.me/919100116156"
+              href="https://wa.me/919063758507"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-white hover:bg-white hover:text-gray-900 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg transition-colors"
