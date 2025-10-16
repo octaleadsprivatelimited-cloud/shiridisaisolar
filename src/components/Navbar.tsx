@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
             <img 
-              src={`${process.env.PUBLIC_URL}/shrisiridisaisolar_logo.jpg`}
+              src={`${process.env.PUBLIC_URL}/Untitled_design.png`}
               alt="Sri Shiridi Sai Solar" 
               className="h-14 w-auto object-contain"
               style={{ maxWidth: '200px' }}
