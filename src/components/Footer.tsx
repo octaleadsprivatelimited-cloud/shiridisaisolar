@@ -55,8 +55,10 @@ const Footer: React.FC = () => {
                 <div className="flex items-start space-x-3">
                   <Phone className="h-4 w-4 text-yellow-500 mt-0.5 flex-shrink-0" />
                   <div>
-                    <p className="text-gray-300">+91 90637 58507</p>
-                    <p className="text-gray-400 text-xs">24/7 Support</p>
+                    <a href="tel:+919063758507" className="text-gray-300 hover:text-yellow-500 transition-colors">+91 90637 58507</a>
+                    <br />
+                    <a href="tel:+919490872456" className="text-gray-300 hover:text-yellow-500 transition-colors">+91 94908 72456</a>
+                    <p className="text-gray-400 text-xs mt-1">24/7 Support</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">

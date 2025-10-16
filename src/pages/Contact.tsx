@@ -49,7 +49,7 @@ const Contact: React.FC = () => {
     {
       icon: <Phone className="h-8 w-8 text-yellow-500" />,
       title: "Phone",
-      details: ["+91 90637 58507"],
+      details: ["+91 90637 58507", "+91 94908 72456"],
       action: "tel:+919063758507"
     },
     {
@@ -445,7 +445,13 @@ const Contact: React.FC = () => {
               href="tel:+919063758507"
               className="bg-gray-900 hover:bg-gray-800 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
             >
-                              Call Now: +91 90637 58507
+              Call: +91 90637 58507
+            </a>
+            <a
+              href="tel:+919490872456"
+              className="bg-gray-900 hover:bg-gray-800 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
+            >
+              Call: +91 94908 72456
             </a>
             <a
               href="https://wa.me/919063758507"

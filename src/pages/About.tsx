@@ -268,7 +268,14 @@ const About: React.FC = () => {
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg transition-colors inline-flex items-center justify-center"
             >
               <Phone className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
-              Call Now: +91 90637 58507
+              Call: +91 90637 58507
+            </a>
+            <a
+              href="tel:+919490872456"
+              className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg transition-colors inline-flex items-center justify-center"
+            >
+              <Phone className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
+              Call: +91 94908 72456
             </a>
             <a
               href="https://wa.me/919063758507"
