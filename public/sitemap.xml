@@ -1,175 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage - Highest Priority -->
   <url>
     <loc>https://shiridisaisolars.com/</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Main Pages - High Priority -->
   <url>
     <loc>https://shiridisaisolars.com/services</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://shiridisaisolars.com/about</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://shiridisaisolars.com/solar-calculator</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://shiridisaisolars.com/contact</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://shiridisaisolars.com/faq</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Blog Section -->
   <url>
     <loc>https://shiridisaisolars.com/blog</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-  <!-- High Priority Blog Article - PM Surya Ghar Subsidy -->
+
+  <!-- Featured Blog Article - PM Surya Ghar (High Priority, High Traffic) -->
   <url>
     <loc>https://shiridisaisolars.com/blog/pm-surya-ghar-subsidy-complete-guide-2025</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.95</priority>
   </url>
-  
-  <!-- Location-Based Blog Articles -->
+
+  <!-- Location-Based Blog Articles - Krishna District -->
   <url>
     <loc>https://shiridisaisolars.com/blog/solar-energy-vijayawada-guide-2024</loc>
-    <lastmod>2024-03-20</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-machilipatnam-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-gudivada-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-nuzvid-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-jaggaiahpet-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-nandigama-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Location-Based Blog Articles - Guntur District -->
   <url>
     <loc>https://shiridisaisolars.com/blog/solar-energy-guntur-guide-2024</loc>
-    <lastmod>2024-03-19</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-visakhapatnam-guide-2024</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-machilipatnam-guide-2024</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-gudivada-guide-2024</loc>
-    <lastmod>2024-03-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+
   <url>
     <loc>https://shiridisaisolars.com/blog/solar-energy-tenali-guide-2024</loc>
-    <lastmod>2024-03-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-bapatla-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-narasaraopet-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-ponnur-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-vinukonda-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Location-Based Blog Articles - Visakhapatnam District -->
+  <url>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-visakhapatnam-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://shiridisaisolars.com/blog/solar-energy-anakapalle-guide-2024</loc>
-    <lastmod>2024-03-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-palakollu-guide-2024</loc>
-    <lastmod>2024-03-13</lastmod>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-narsipatnam-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-narsapur-guide-2024</loc>
-    <lastmod>2024-03-12</lastmod>
+    <loc>https://shiridisaisolars.com/blog/solar-energy-yelamanchili-guide-2024</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-machilipatnam-guide-2024</loc>
-    <lastmod>2024-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-gudivada-guide-2024</loc>
-    <lastmod>2024-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-adilabad-guide-2024</loc>
-    <lastmod>2024-03-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-nalgonda-guide-2024</loc>
-    <lastmod>2024-03-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-ongole-guide-2024</loc>
-    <lastmod>2024-03-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-nellore-guide-2024</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-medak-guide-2024</loc>
-    <lastmod>2024-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-chittoor-guide-2024</loc>
-    <lastmod>2024-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-rangareddy-guide-2024</loc>
-    <lastmod>2024-03-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-kurnool-guide-2024</loc>
-    <lastmod>2024-03-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shiridisaisolars.com/blog/solar-energy-kadapa-guide-2024</loc>
-    <lastmod>2024-03-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+
 </urlset>
