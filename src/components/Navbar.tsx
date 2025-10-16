@@ -5,7 +5,6 @@ import {
   Menu,
   X,
   ChevronDown,
-  Sun,
   HelpCircle,
   BookOpen,
   Gift

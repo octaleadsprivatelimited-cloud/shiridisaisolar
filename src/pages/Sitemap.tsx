@@ -3,11 +3,8 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { 
   Home, 
-  Briefcase, 
-  Info, 
   Calculator, 
   Phone, 
-  HelpCircle,
   BookOpen,
   MapPin,
   ChevronRight
