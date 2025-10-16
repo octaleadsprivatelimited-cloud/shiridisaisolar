@@ -12,7 +12,11 @@ const Footer: React.FC = () => {
             {/* Company Info */}
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
-                <Sun className="h-6 w-6 text-yellow-500" />
+                <img 
+                  src="/shrisiridisaisolar_logo.jpg" 
+                  alt="Sri Shiridi Sai Solar Logo" 
+                  className="h-10 w-auto"
+                />
                 <span className="text-lg lg:text-xl font-bold">Sri Shiridi Sai Solar</span>
               </div>
               <p className="text-sm text-gray-300 leading-relaxed">
