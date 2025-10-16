@@ -11,14 +11,7 @@ const Footer: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
             {/* Company Info */}
             <div className="space-y-4">
-              <div className="flex items-center">
-                <img 
-                  src="/shrisiridisaisolar_logo.jpg" 
-                  alt="Sri Shiridi Sai Solar" 
-                  className="h-12 w-auto object-contain mb-2"
-                  style={{ maxWidth: '180px' }}
-                />
-              </div>
+              <h3 className="text-lg lg:text-xl font-bold text-white">Sri Shiridi Sai Solar</h3>
               <p className="text-sm text-gray-300 leading-relaxed">
                 Leading solar energy solutions provider based in Vijayawada, Andhra Pradesh - serving Krishna, Guntur, and Visakhapatnam districts.
                 Professional solar panel installation with government subsidy assistance and PM solar scheme benefits.
