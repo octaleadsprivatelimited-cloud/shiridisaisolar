@@ -14,7 +14,7 @@ import Landing from './pages/Landing';
 
 import FAQ from './pages/FAQ';
 import Blog from './pages/Blog';
-
+import Sitemap from './pages/Sitemap';
 import Article from './pages/Article';
 import WhatsAppButton from './components/WhatsAppButton';
 import ScrollToTop from './components/ScrollToTop';
@@ -39,6 +39,7 @@ function App() {
             <Route path="/faq" element={<FAQ />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/blog/:slug" element={<Article />} />
+            <Route path="/sitemap" element={<Sitemap />} />
 
             {/* Catch all route for 404 errors - redirect to home */}
             <Route path="*" element={<Navigate to="/" replace />} />
