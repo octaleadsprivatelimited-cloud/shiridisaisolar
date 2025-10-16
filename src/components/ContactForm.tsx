@@ -36,23 +36,43 @@ const ContactForm: React.FC<ContactFormProps> = ({ location, articleTitle, class
     e.preventDefault();
     setIsLoading(true);
     
-    // Simulate form submission
-    setTimeout(() => {
-      setIsSubmitted(true);
+    try {
+      // Submit to Formspree
+      const response = await fetch('https://formspree.io/f/xyznogdq', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          ...formData,
+          articleTitle: articleTitle || 'General Inquiry',
+          timestamp: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })
+        }),
+      });
+
+      if (response.ok) {
+        setIsSubmitted(true);
+        setIsLoading(false);
+        // Reset form after 5 seconds
+        setTimeout(() => {
+          setIsSubmitted(false);
+          setFormData({
+            name: '',
+            phone: '',
+            email: '',
+            location: location || '',
+            systemSize: '',
+            message: ''
+          });
+        }, 5000);
+      } else {
+        throw new Error('Submission failed');
+      }
+    } catch (error) {
+      console.error('Form submission error:', error);
+      alert('There was an error submitting the form. Please call us at +91 90637 58507 or try again.');
       setIsLoading(false);
-      // Reset form after 3 seconds
-      setTimeout(() => {
-        setIsSubmitted(false);
-        setFormData({
-          name: '',
-          phone: '',
-          email: '',
-          location: location || '',
-          systemSize: '',
-          message: ''
-        });
-      }, 3000);
-    }, 1500);
+    }
   };
 
   if (isSubmitted) {
