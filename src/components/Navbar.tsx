@@ -48,10 +48,6 @@ const Navbar: React.FC = () => {
               alt="Sri Shiridi Sai Solar" 
               className="h-14 w-auto object-contain"
               style={{ maxWidth: '200px' }}
-              onError={(e) => {
-                e.currentTarget.style.display = 'none';
-                e.currentTarget.parentElement!.innerHTML = '<span class="text-xl font-bold text-gray-900">Sri Shiridi Sai Solar</span>';
-              }}
             />
           </Link>
 
