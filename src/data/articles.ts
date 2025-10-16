@@ -137,7 +137,7 @@ export const articles: Article[] = [
 
       <h3>Step 4: Installation</h3>
       <ol>
-        <li>Contact approved solar installer (like Sri Shiridi Sai Solar)</li>
+        <li>Contact approved solar installer (like Shri Shiridi Sai Solar)</li>
         <li>Schedule installation date</li>
         <li>Installation completed (1-3 days)</li>
         <li>Net meter installation by DISCOM</li>
@@ -191,7 +191,7 @@ export const articles: Article[] = [
         <li><strong>Visakhapatnam District:</strong> Visakhapatnam, Anakapalle, Narsipatnam</li>
       </ul>
 
-      <h2>Why Choose Sri Shiridi Sai Solar for PM Surya Ghar?</h2>
+      <h2>Why Choose Shri Shiridi Sai Solar for PM Surya Ghar?</h2>
       
       <p>As an <strong>MNRE-approved solar installer</strong> based in Vijayawada, we specialize in PM Surya Ghar installations:</p>
 
@@ -225,7 +225,7 @@ export const articles: Article[] = [
       <p><strong>Final Cost:</strong> ₹60,000</p>
       <p><strong>Monthly Savings:</strong> ₹1,200</p>
       <p><strong>Payback Period:</strong> 4.2 years</p>
-      <p><em>"Sri Shiridi Sai Solar handled everything - from application to installation. Got subsidy in my bank within a month!"</em> - Lakshmi Devi, Teacher</p>
+      <p><em>"Shri Shiridi Sai Solar handled everything - from application to installation. Got subsidy in my bank within a month!"</em> - Lakshmi Devi, Teacher</p>
 
       <h2>FAQs - PM Surya Ghar Yojana 2025</h2>
 
@@ -340,7 +340,7 @@ export const articles: Article[] = [
       
       <p>Ready to go solar with PM Surya Ghar subsidy?</p>
       
-      <p><strong>Sri Shiridi Sai Solar</strong> - MNRE Approved Installer</p>
+      <p><strong>Shri Shiridi Sai Solar</strong> - MNRE Approved Installer</p>
       <p>📞 Call: <strong>+91 90637 58507</strong></p>
       <p>📧 Email: info@shiridisaisolars.com</p>
       <p>📍 Location: Vijayawada, Andhra Pradesh</p>
@@ -363,9 +363,9 @@ export const articles: Article[] = [
 
       <p>Don't wait! The scheme has limited slots. Apply now and join thousands of families already enjoying free solar power.</p>
 
-      <p><strong>Start your solar journey today with Sri Shiridi Sai Solar - Your trusted MNRE-approved installer in Vijayawada!</strong></p>
+      <p><strong>Start your solar journey today with Shri Shiridi Sai Solar - Your trusted MNRE-approved installer in Vijayawada!</strong></p>
     `,
-    author: "Sri Shiridi Sai Solar Team",
+    author: "Shri Shiridi Sai Solar Team",
     authorBio: "MNRE-certified solar energy experts specializing in PM Surya Ghar installations across Vijayawada, Guntur, and Visakhapatnam. Helping homeowners save on electricity bills with government-subsidized solar solutions.",
     publishDate: "2025-01-15",
     readTime: "12 min read",
@@ -406,7 +406,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Local Solar Company</h2>
-      <p>Sri Shiridi Sai Solar leads Vijayawada with professional experience, quality installations, 24/7 support, and free assessments.</p>
+      <p>Shri Shiridi Sai Solar leads Vijayawada with professional experience, quality installations, 24/7 support, and free assessments.</p>
       
       <h2>Government Subsidies</h2>
       <ul>
@@ -426,7 +426,7 @@ export const articles: Article[] = [
       <h2>Conclusion</h2>
       <p>Vijayawada offers excellent potential for solar with strong ROI and reliable local service.</p>
     `,
-    author: "Sri Shiridi Sai Solar Team",
+    author: "Shri Shiridi Sai Solar Team",
     authorBio: "Leading solar energy experts in Vijayawada serving Krishna, Guntur, and Visakhapatnam districts with professional installations.",
     publishDate: "2024-03-20",
     readTime: "8 min read",
@@ -468,7 +468,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Local Solar Expertise</h2>
-      <p>Sri Shiridi Sai Solar serves Guntur with:</p>
+      <p>Shri Shiridi Sai Solar serves Guntur with:</p>
       <ul>
         <li>Local support team</li>
         <li>Quick installation services</li>
@@ -541,7 +541,7 @@ export const articles: Article[] = [
       </ul>
       
       <h2>Local Solar Services</h2>
-      <p>Sri Shiridi Sai Solar provides in Visakhapatnam:</p>
+      <p>Shri Shiridi Sai Solar provides in Visakhapatnam:</p>
       <ul>
         <li>Free site assessment</li>
         <li>Custom solar solutions</li>
@@ -631,7 +631,7 @@ additionalLocations.forEach((location, index) => {
       </ul>
       
       <h2>Local Services</h2>
-      <p>Sri Shiridi Sai Solar provides comprehensive solar solutions in ${location} including installation, maintenance, and support.</p>
+      <p>Shri Shiridi Sai Solar provides comprehensive solar solutions in ${location} including installation, maintenance, and support.</p>
       
       <h2>Government Support</h2>
       <ul>

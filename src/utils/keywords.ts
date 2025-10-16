@@ -1,7 +1,7 @@
-// Location-based keywords for Andhra Pradesh (optimized for local SEO 2025)
+// Location-based keywords for Andhra Pradesh & Telangana (optimized for local SEO 2025)
 export const locationKeywords = {
   cities: [
-    // Krishna District
+    // Andhra Pradesh - Krishna District
     'Vijayawada',
     'Machilipatnam',
     'Gudivada',
@@ -10,7 +10,7 @@ export const locationKeywords = {
     'Nandigama',
     'Kankipadu',
     'Mylavaram',
-    // Guntur District
+    // Andhra Pradesh - Guntur District
     'Guntur',
     'Tenali',
     'Bapatla',
@@ -19,27 +19,59 @@ export const locationKeywords = {
     'Vinukonda',
     'Mangalagiri',
     'Sattenapalle',
-    // Visakhapatnam District
+    // Andhra Pradesh - Visakhapatnam District
     'Visakhapatnam',
     'Vizag',
     'Anakapalle',
     'Narsipatnam',
     'Yelamanchili',
-    'Bheemunipatnam'
+    'Bheemunipatnam',
+    // Telangana - Hyderabad & Rangareddy
+    'Hyderabad',
+    'Secunderabad',
+    'Rangareddy',
+    'Shadnagar',
+    'Vikarabad',
+    // Telangana - Medchal-Malkajgiri
+    'Medchal',
+    'Malkajgiri',
+    'Kompally',
+    'Alwal',
+    // Telangana - Other major cities
+    'Warangal',
+    'Nizamabad',
+    'Karimnagar',
+    'Khammam',
+    'Nalgonda',
+    'Mahbubnagar'
   ],
   districts: [
+    // Andhra Pradesh Districts
     'Krishna District',
     'Guntur District',
     'Visakhapatnam District',
     'NTR District',
-    'Palnadu District'
+    'Palnadu District',
+    // Telangana Districts
+    'Hyderabad District',
+    'Rangareddy District',
+    'Medchal-Malkajgiri District',
+    'Warangal District',
+    'Nizamabad District',
+    'Karimnagar District',
+    'Khammam District',
+    'Nalgonda District'
   ],
   regions: [
     'Andhra Pradesh',
+    'Telangana',
+    'Telugu States',
     'Coastal Andhra',
     'South India',
     'AP',
-    'Rayalaseema'
+    'TS',
+    'Rayalaseema',
+    'Deccan Region'
   ]
 };
 
@@ -122,12 +154,17 @@ export const transactionalKeywords = [
   'top 10 solar companies Andhra Pradesh',
   // Subsidy-related (high conversion)
   'solar panel with subsidy Vijayawada',
+  'solar panel with subsidy Hyderabad',
   'PM Surya Ghar subsidy Andhra Pradesh',
+  'PM Surya Ghar subsidy Telangana',
   'government solar subsidy Krishna District',
+  'government solar subsidy Hyderabad',
   'free solar scheme Vijayawada',
+  'free solar scheme Hyderabad',
   'solar panel subsidy application',
   'rooftop solar subsidy 2025',
-  'solar subsidy eligibility AP'
+  'solar subsidy eligibility AP',
+  'solar subsidy eligibility Telangana'
 ];
 
 // Combined location + solar keywords (for local SEO dominance)
@@ -171,12 +208,36 @@ export const combinedKeywords = [
   'solar panels Narsipatnam',
   'solar company Yelamanchili',
   'solar installation Bheemunipatnam',
+  // Telangana Cities (EXPANDING MARKET)
+  'solar panels in Hyderabad',
+  'solar panel installation in Hyderabad',
+  'rooftop solar Hyderabad',
+  'best solar company in Hyderabad',
+  'solar installation services Hyderabad',
+  'solar panel dealers in Hyderabad',
+  'solar power company Hyderabad',
+  'residential solar Hyderabad',
+  'commercial solar Hyderabad',
+  'solar panels Secunderabad',
+  'solar installation Rangareddy',
+  'solar power Medchal',
+  'rooftop solar Warangal',
+  'solar company Nizamabad',
+  'solar panels Karimnagar',
+  'solar installers Khammam',
+  'solar energy Nalgonda',
   // Regional & State-level
   'solar company in Andhra Pradesh',
+  'solar company in Telangana',
   'best solar panels Andhra Pradesh',
+  'best solar panels Telangana',
   'solar installation Coastal Andhra',
+  'solar installation Telugu States',
   'solar power AP',
-  'Andhra Pradesh solar dealers'
+  'solar power TS',
+  'Andhra Pradesh solar dealers',
+  'Telangana solar dealers',
+  'AP Telangana solar company'
 ];
 
 // Long-tail keywords (specific, high-conversion queries)
@@ -325,9 +386,33 @@ export const metaKeywords = [
   
   // REGIONAL KEYWORDS
   'Andhra Pradesh solar company',
+  'Telangana solar company',
   'Coastal Andhra solar panels',
   'AP solar installation',
+  'Telangana solar installation',
+  'Telugu states solar',
   'South India solar energy',
+  'AP Telangana solar panels',
+  
+  // TELANGANA-SPECIFIC KEYWORDS
+  'solar panels Hyderabad',
+  'solar installation Hyderabad',
+  'best solar company Hyderabad',
+  'rooftop solar Hyderabad',
+  'solar companies Telangana',
+  'solar panel dealers Hyderabad',
+  'solar installation Secunderabad',
+  'solar panels Rangareddy',
+  'solar company Medchal',
+  'solar power Nizamabad',
+  'solar installation Warangal',
+  'solar panels Karimnagar',
+  'solar company Khammam',
+  'rooftop solar Nalgonda',
+  'solar subsidy Telangana',
+  'solar subsidy Hyderabad',
+  'green energy Hyderabad',
+  'clean energy Telangana',
   
   // LONG-TAIL (High conversion)
   'solar panels for home',

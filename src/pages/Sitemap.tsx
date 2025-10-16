@@ -16,7 +16,7 @@ const Sitemap: React.FC = () => {
       title: "Main Pages",
       icon: <Home className="h-6 w-6" />,
       links: [
-        { name: "Home", path: "/", description: "Welcome to Sri Shiridi Sai Solar" },
+        { name: "Home", path: "/", description: "Welcome to Shri Shiridi Sai Solar" },
         { name: "Services", path: "/services", description: "Solar installation services we offer" },
         { name: "About Us", path: "/about", description: "Learn about our company and mission" },
         { name: "Solar Calculator", path: "/solar-calculator", description: "Calculate your solar savings" },
@@ -103,7 +103,7 @@ const Sitemap: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Explore all pages and resources on Sri Shiridi Sai Solar website
+            Explore all pages and resources on Shri Shiridi Sai Solar website
           </motion.p>
         </div>
       </section>

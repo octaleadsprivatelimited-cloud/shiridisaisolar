@@ -1,11 +1,11 @@
-# Open Graph Image Specifications for Sri Shiridi Sai Solar
+# Open Graph Image Specifications for Shri Shiridi Sai Solar
 
 ## Primary OG Image
 - **Dimensions**: 1200 x 630 pixels (1.91:1 ratio)
 - **Format**: PNG or JPG
 - **File Size**: Under 1MB
 - **Content**: 
-  - Logo: Sri Shiridi Sai Solar with sun icon
+  - Logo: Shri Shiridi Sai Solar with sun icon
   - Tagline: "Leading Solar Installation in Vijayawada, Andhra Pradesh"
   - Highlight: "₹78,000 Government Subsidy Available"
   - Visual: Solar panels with blue sky background
@@ -15,7 +15,7 @@
 ### Homepage
 - **Dimensions**: 1200 x 630 pixels
 - **Content**: Company overview with solar panels
-- **Text**: "Sri Shiridi Sai Solar - Power Your Future with Solar Energy"
+- **Text**: "Shri Shiridi Sai Solar - Power Your Future with Solar Energy"
 
 ### Landing Page
 - **Dimensions**: 1200 x 630 pixels
@@ -35,12 +35,12 @@
 ### About
 - **Dimensions**: 1200 x 630 pixels
 - **Content**: Team photos with company building
-- **Text**: "About Sri Shiridi Sai Solar - Professional Solar Solutions"
+- **Text**: "About Shri Shiridi Sai Solar - Professional Solar Solutions"
 
 ### Contact
 - **Dimensions**: 1200 x 630 pixels
 - **Content**: Contact information with service areas map
-- **Text**: "Contact Sri Shiridi Sai Solar - Serving Krishna, Guntur & Visakhapatnam Districts"
+- **Text**: "Contact Shri Shiridi Sai Solar - Serving Krishna, Guntur & Visakhapatnam Districts"
 
 ## Social Media Platforms
 
@@ -77,7 +77,7 @@
 - **Contrast**: High contrast for accessibility
 
 ### Branding
-- **Logo**: Always include Sri Shiridi Sai Solar logo
+- **Logo**: Always include Shri Shiridi Sai Solar logo
 - **Tagline**: "Leading Solar Installation in Vijayawada, Andhra Pradesh"
 - **Contact**: +91 90637 58507
 - **Website**: shiridisaisolars.com

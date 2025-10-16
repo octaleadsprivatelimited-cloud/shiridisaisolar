@@ -1,4 +1,4 @@
-# Sri Shiridi Sai Solar - Solar Panel Installation Website
+# Shri Shiridi Sai Solar - Solar Panel Installation Website
 
 A professional, responsive website for a solar panel installation company based in Vijayawada, operating in Andhra Pradesh, India.
 
@@ -133,7 +133,7 @@ The build folder will contain all production-ready files.
 ### Environment Variables
 Create a `.env` file for environment-specific configurations:
 ```env
-REACT_APP_COMPANY_NAME=Sri Shiridi Sai Solar
+REACT_APP_COMPANY_NAME=Shri Shiridi Sai Solar
 REACT_APP_PHONE_NUMBER=+919063758507
 REACT_APP_EMAIL=info@shiridisaisolars.com
 ```
@@ -184,4 +184,4 @@ For support and questions:
 
 ---
 
-**Sri Shiridi Sai Solar** - Powering the future with solar energy! ☀️
+**Shri Shiridi Sai Solar** - Powering the future with solar energy! ☀️

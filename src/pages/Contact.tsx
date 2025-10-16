@@ -87,7 +87,7 @@ const Contact: React.FC = () => {
     {
       icon: <MapPin className="h-8 w-8 text-yellow-500" />,
       title: "Service Areas",
-      details: ["Krishna District", "Guntur District", "Visakhapatnam District"],
+      details: ["Andhra Pradesh", "Telangana", "Krishna, Guntur, Vizag, Hyderabad"],
       action: "#"
     },
     {
@@ -99,8 +99,9 @@ const Contact: React.FC = () => {
   ];
 
   const cities = [
-    'Vijayawada', 'Guntur', 'Visakhapatnam',
-    'Krishna District', 'Guntur District', 'Visakhapatnam District'
+    'Vijayawada', 'Guntur', 'Visakhapatnam', 'Hyderabad', 'Secunderabad',
+    'Krishna District', 'Guntur District', 'Visakhapatnam District',
+    'Rangareddy District', 'Medchal-Malkajgiri', 'Warangal', 'Karimnagar'
   ];
 
   const systemSizes = [
@@ -398,7 +399,7 @@ const Contact: React.FC = () => {
                       allowFullScreen
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Sri Shiridi Sai Solar Location"
+                      title="Shri Shiridi Sai Solar Location"
                     ></iframe>
                   </div>
                   <div className="mt-4 flex flex-col sm:flex-row gap-2">

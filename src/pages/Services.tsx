@@ -101,8 +101,8 @@ const Services: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Comprehensive solar solutions for residential, commercial, and industrial needs across Andhra Pradesh. 
-            Expert solar panel installation with premium quality components in Krishna, Guntur, and Visakhapatnam districts.
+            Comprehensive solar solutions for residential, commercial, and industrial needs across Andhra Pradesh and Telangana. 
+            Expert solar panel installation with premium quality components across both Telugu states.
           </motion.p>
         </div>
       </section>
@@ -115,7 +115,7 @@ const Services: React.FC = () => {
               Solar Installation Services
             </h2>
             <p className="text-xl text-gray-600">
-              Choose the perfect solar solution for your energy needs - serving Vijayawada, Guntur, Visakhapatnam, and surrounding areas in Krishna, Guntur, and Visakhapatnam districts
+              Choose the perfect solar solution for your energy needs - serving Vijayawada, Guntur, Visakhapatnam, Hyderabad, and surrounding areas across Andhra Pradesh and Telangana
             </p>
           </div>
           

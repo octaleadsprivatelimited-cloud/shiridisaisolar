@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center">
             <img 
               src={logo}
-              alt="Sri Shiridi Sai Solar" 
+              alt="Shri Shiridi Sai Solar" 
               className="h-14 w-auto object-contain"
               style={{ maxWidth: '200px' }}
             />
@@ -136,20 +136,77 @@ const Navbar: React.FC = () => {
 
       {/* Mobile Navigation */}
       {isOpen && (
-        <div className="md:hidden absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-200 z-50">
+        <motion.div 
+          initial={{ opacity: 0, height: 0 }}
+          animate={{ opacity: 1, height: 'auto' }}
+          exit={{ opacity: 0, height: 0 }}
+          transition={{ duration: 0.3, ease: 'easeInOut' }}
+          className="md:hidden absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-200 z-50 overflow-hidden"
+        >
           <div className="px-4 py-3 space-y-2 bg-white">
-            <Link to="/" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Home</Link>
-            <Link to="/services" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Services</Link>
-            <Link to="/about" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>About</Link>
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.1, duration: 0.3 }}
+            >
+              <Link to="/" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Home</Link>
+            </motion.div>
+            
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.15, duration: 0.3 }}
+            >
+              <Link to="/services" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Services</Link>
+            </motion.div>
+            
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.2, duration: 0.3 }}
+            >
+              <Link to="/about" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>About</Link>
+            </motion.div>
 
-            <Link to="/faq" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>FAQ</Link>
-            <Link to="/blog" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Blog</Link>
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.25, duration: 0.3 }}
+            >
+              <Link to="/faq" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>FAQ</Link>
+            </motion.div>
+            
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.3, duration: 0.3 }}
+            >
+              <Link to="/blog" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Blog</Link>
+            </motion.div>
 
-            <Link to="/solar-calculator" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Calculator</Link>
-            <Link to="/contact" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Contact</Link>
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.35, duration: 0.3 }}
+            >
+              <Link to="/solar-calculator" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Calculator</Link>
+            </motion.div>
+            
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ delay: 0.4, duration: 0.3 }}
+            >
+              <Link to="/contact" className="block px-3 py-2 text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 rounded-md transition-colors" onClick={() => setIsOpen(false)}>Contact</Link>
+            </motion.div>
 
             {/* Mobile CTA Buttons */}
-            <div className="pt-4 border-t border-gray-200 space-y-3">
+            <motion.div 
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.45, duration: 0.3 }}
+              className="pt-4 border-t border-gray-200 space-y-3"
+            >
               {/* Mobile Subsidy Button */}
               <Link
                 to="/landing"
@@ -170,9 +227,9 @@ const Navbar: React.FC = () => {
               >
                 Get Quote
               </button>
-            </div>
+            </motion.div>
           </div>
-        </div>
+        </motion.div>
       )}
     </nav>
   );

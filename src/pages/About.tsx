@@ -64,7 +64,7 @@ const About: React.FC = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl lg:text-5xl font-bold mb-6"
           >
-            About Sri Shiridi Sai Solar
+            About Shri Shiridi Sai Solar
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -72,8 +72,8 @@ const About: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Leading solar energy company based in Vijayawada, Andhra Pradesh, serving Krishna, Guntur, and Visakhapatnam districts. Committed to providing sustainable 
-            energy solutions, solar panel installation, and exceptional customer service across the region.
+            Leading solar energy company based in Vijayawada, serving Andhra Pradesh and Telangana. Committed to providing sustainable 
+            energy solutions, solar panel installation, and exceptional customer service across both Telugu states.
           </motion.p>
         </div>
       </section>
@@ -92,11 +92,11 @@ const About: React.FC = () => {
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Founded with a clear mission: to make solar energy 
-                accessible and affordable for households and businesses across Andhra Pradesh.
+                accessible and affordable for households and businesses across Andhra Pradesh and Telangana.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 What began as a small team of passionate engineers has grown into one of the region's 
-                most trusted solar installation companies, proudly serving satisfied customers across Krishna, Guntur, and Visakhapatnam districts.
+                most trusted solar installation companies, proudly serving satisfied customers across both Telugu states.
               </p>
               <p className="text-lg text-gray-600">
                 Today, we continue to innovate and expand our services while upholding our core 
@@ -111,11 +111,11 @@ const About: React.FC = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Our Mission</h3>
               <p className="text-lg mb-4">
-                To accelerate the adoption of solar energy across Andhra Pradesh by delivering affordable, reliable, and sustainable solar solutions to Krishna, Guntur, and Visakhapatnam districts.
+                To accelerate the adoption of solar energy across Andhra Pradesh and Telangana by delivering affordable, reliable, and sustainable solar solutions to both Telugu states.
               </p>
               <h3 className="text-2xl font-bold mb-4">Our Vision</h3>
               <p className="text-lg">
-                To become a leading solar energy company in Andhra Pradesh, driving the region's transition to clean and renewable energy.
+                To become a leading solar energy company in the Telugu states, driving the region's transition to clean and renewable energy across AP and Telangana.
               </p>
             </motion.div>
           </div>
@@ -232,12 +232,12 @@ const About: React.FC = () => {
               Service Areas
             </h2>
             <p className="text-lg sm:text-xl text-gray-600 px-4">
-              Based in Vijayawada, we proudly serve these districts in Andhra Pradesh
+              Based in Vijayawada, we proudly serve these districts in Andhra Pradesh and Telangana
             </p>
           </div>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-3xl mx-auto">
-            {['Krishna District', 'Guntur District', 'Visakhapatnam District'].map((city, index) => (
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-4xl mx-auto">
+            {['Krishna District', 'Guntur District', 'Visakhapatnam District', 'Hyderabad', 'Rangareddy District', 'Medchal-Malkajgiri', 'Warangal District', 'Karimnagar District'].map((city, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, scale: 0.8 }}
@@ -260,7 +260,7 @@ const About: React.FC = () => {
             Ready to Work with Us?
           </h2>
           <p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8 max-w-2xl mx-auto px-4">
-            Join our growing family of satisfied customers and experience the Sri Shiridi Sai Solar difference
+            Join our growing family of satisfied customers and experience the Shri Shiridi Sai Solar difference
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4">
             <a

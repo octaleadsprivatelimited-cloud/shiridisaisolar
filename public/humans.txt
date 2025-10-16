@@ -1,5 +1,5 @@
 /* TEAM */
-    Company: Sri Shiridi Sai Solar
+    Company: Shri Shiridi Sai Solar
     Site: https://shiridisaisolars.com
     Location: Vijayawada, Andhra Pradesh, India
     Address: Plot No 21, CTO Colony, Vijayawada
@@ -26,7 +26,7 @@
     Description: National solar mission and guidelines
 
 /* SITE */
-    Name: Sri Shiridi Sai Solar
+    Name: Shri Shiridi Sai Solar
     Description: Leading solar panel installation company in Vijayawada, Andhra Pradesh
     Keywords: solar panels Vijayawada, solar installation Krishna District, solar Guntur, solar Visakhapatnam, PM solar scheme, subsidy, renewable energy, Andhra Pradesh, Vijayawada, Machilipatnam, Gudivada, Guntur, Tenali, Visakhapatnam, Vizag
-    Author: Sri Shiridi Sai Solar Team
+    Author: Shri Shiridi Sai Solar Team

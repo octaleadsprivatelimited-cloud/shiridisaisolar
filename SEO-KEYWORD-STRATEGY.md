@@ -1,11 +1,11 @@
-# SEO Keyword Strategy for Sri Shiridi Sai Solar
+# SEO Keyword Strategy for Shri Shiridi Sai Solar
 *Optimized for Google 2025 - Local SEO Focused*
 
 ---
 
 ## 🎯 **Executive Summary**
 
-This document outlines the comprehensive keyword strategy for Sri Shiridi Sai Solar to rank #1 on Google for solar panel installation services in Vijayawada and surrounding Andhra Pradesh districts.
+This document outlines the comprehensive keyword strategy for Shri Shiridi Sai Solar to rank #1 on Google for solar panel installation services in Vijayawada and surrounding Andhra Pradesh districts.
 
 **Target Markets:**
 1. **PRIMARY:** Vijayawada & Krishna District

@@ -106,7 +106,7 @@ Each step with detailed substeps
 - Budget: ₹1,500 crore
 - District-wise coverage
 
-#### **8. Why Choose Sri Shiridi Sai Solar**
+#### **8. Why Choose Shri Shiridi Sai Solar**
 - MNRE certification highlight
 - 8 advantages listed
 - End-to-end support emphasis
@@ -149,7 +149,7 @@ Each step with detailed substeps
 - Faster processing
 
 #### **15. Contact & CTA**
-- Sri Shiridi Sai Solar details
+- Shri Shiridi Sai Solar details
 - Phone, email, location
 - Service areas
 - What we offer (7 points)
