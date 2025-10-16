@@ -10,6 +10,7 @@ import {
   Gift
 } from 'lucide-react';
 import { openWhatsAppQuote } from '../utils/whatsapp';
+import logo from '../Untitled_design.svg';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -44,7 +45,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
             <img 
-              src={`${process.env.PUBLIC_URL}/Untitled_design.png`}
+              src={logo}
               alt="Sri Shiridi Sai Solar" 
               className="h-14 w-auto object-contain"
               style={{ maxWidth: '200px' }}

@@ -1,20 +1,20 @@
 {
   "short_name": "Sri Shiridi Sai Solar",
   "name": "Sri Shiridi Sai Solar - Leading Solar Panel Installation Company in Vijayawada",
-  "description": "Professional solar panel installation services with PM Solar Scheme subsidies up to ₹78,000. Based in Vijayawada, serving Krishna, Guntur, and Visakhapatnam districts in Andhra Pradesh.",
+  "description": "Professional solar panel installation services with PM Solar Scheme subsidies up to ₹78,000. Based in Vijayawada, serving Andhra Pradesh and Telangana.",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "solar-favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
+      "src": "favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "favicon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }

@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
             <div className="space-y-4">
               <h3 className="text-lg lg:text-xl font-bold text-white">Sri Shiridi Sai Solar</h3>
               <p className="text-sm text-gray-300 leading-relaxed">
-                Leading solar energy solutions provider based in Vijayawada, Andhra Pradesh - serving Krishna, Guntur, and Visakhapatnam districts.
+                Leading solar energy solutions provider serving Andhra Pradesh and Telangana. Based in Vijayawada, serving Krishna, Guntur, Visakhapatnam, and Hyderabad.
                 Professional solar panel installation with government subsidy assistance and PM solar scheme benefits.
               </p>
             </div>
